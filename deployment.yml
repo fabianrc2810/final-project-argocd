@@ -17,4 +17,4 @@ spec:
           image: fabianrc2810/final-project:b6b7abc7a1a26f57db5df1b6b2a3f35d514d6776
           imagePullPolicy: Always
           ports:
-            - containerPort: 80
+            - containerPort: 3000
