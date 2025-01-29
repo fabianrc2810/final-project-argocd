@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: final-project
-          image: fabianrc2810/final-project:3b83bf8c0132fc413c45a9027b98ea8dcd0a43e4
+          image: fabianrc2810/final-project:daf0506176126318ffca53b418089b9483d68b70
           imagePullPolicy: Always
           ports:
             - containerPort: 3000
